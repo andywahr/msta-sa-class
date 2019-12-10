@@ -1,0 +1,4 @@
+INSERT INTO PRODUCTS (Name, Price, Image) VALUES('Fall In Love Product', 200.0, 'https://images.yourstory.com/cs/wordpress/2016/08/125-fall-in-love.png?fm=png&auto=format')
+INSERT INTO PRODUCTS (Name, Price, Image) VALUES('Sweet Foam',20.0,'https://api.time.com/wp-content/uploads/2018/11/sweetfoam-sustainable-product.jpg?w=800&quality=85')
+INSERT INTO PRODUCTS (Name, Price, Image) VALUES('Egg Sandwhich',5.0,'https://api.time.com/wp-content/uploads/2018/11/just-egg-sandwich-sustainable-product.jpg?w=800&quality=85')
+INSERT INTO PRODUCTS (Name, Price, Image) VALUES('Wierd Bottle',15.0,'https://api.time.com/wp-content/uploads/2018/11/larq-sustainable-product.jpg?w=800&quality=85')
